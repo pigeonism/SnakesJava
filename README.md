@@ -10,4 +10,4 @@ javac -target 1.6 -source 1.6 SnakesMain.java
 
 To test the applet try:
 
-appletviwer snakes_run.html
+appletviewer snakes_run.html
